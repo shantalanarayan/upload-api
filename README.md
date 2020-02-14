@@ -2,6 +2,13 @@
 
 see project board https://git.generalassemb.ly
 
+
+### User Stories
+As an unregistered user, I would like to sign up with email, pw, and pw confirmation
+As a registered user, I would like to sign in with email and ps
+As a logged in user, I would like to upload an image with a custom name
+As a logged in user, I would like to view the images I uploaded
+
 ### Dependencies
 
 #### AWS SDK Node.js
